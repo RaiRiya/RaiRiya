@@ -1,7 +1,7 @@
 ### Hello Folks.. 👋 
 Welcome to my profile 
 
-<img height=300px width=300xp src="https://static.wikia.nocookie.net/shovelknight/images/a/a0/SSpecterKnightWeak.gif/revision/latest?cb=20230303141353" />
+<img height=300px width=300xp src="https://static.wikia.nocookie.net/shovelknight/images/1/11/Enchantress.gif/revision/latest?cb=20180413182356" />
 
 <!--  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kartikeiya-rai-41a95b22a/) -->
   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-orange)](https://leetcode.com/u/RaiRiya/)
