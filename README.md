@@ -8,12 +8,12 @@ Welcome to my profile
 
 ---
 ### ✪ ABOUT ME : 
-I am a Final Year Computer Science student interest in OSS and Ethical Hacking 💻
-- :telescope: Learning, Building and contributing to frontend and backend applications.
+I am a Final Year Computer Science student interest in Problem Solving and Cloud ☁️
+- :telescope: Solving Leetcode.
 
-- :seedling: Exploring Python and React.
+- :seedling: Exploring Python and Web Dev.
 
-- :zap: In my free time, I solve problems on LeetCode and read Dev news.
+- :zap: In my free time, I Play Games 🎮
 
 - :mailbox: Feel free to reach out to me on <!-- [LinkedIn](https://www.linkedin.com/in/kartikeiya-rai-41a95b22a/) --> or through [E-mail](mailto:riyarai2506@gmail.com).
 
