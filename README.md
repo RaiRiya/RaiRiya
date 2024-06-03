@@ -15,7 +15,7 @@ I am a Final Year Computer Science student interest in OSS and Ethical Hacking �
 
 - :zap: In my free time, I solve problems on LeetCode and read Dev news.
 
-- :mailbox: Feel free to reach out to me on <!-- [LinkedIn](https://www.linkedin.com/in/kartikeiya-rai-41a95b22a/) --> or through [E-mail](mailto:riya2506@gmail.com).
+- :mailbox: Feel free to reach out to me on <!-- [LinkedIn](https://www.linkedin.com/in/kartikeiya-rai-41a95b22a/) --> or through [E-mail](mailto:riyarai2506@gmail.com).
 
 ---
 ### 🛠️ Languages and Tools :
